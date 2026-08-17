@@ -23,5 +23,3 @@ git add index.html
 git commit -m "update site"
 git push
 ```
-
-Через 1–2 минуты изменения появятся по ссылке выше.
