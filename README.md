@@ -13,13 +13,3 @@
 - `index.html` — весь сайт одним файлом (стили, скрипты и изображения встроены)
 - `.nojekyll` — отключает обработку Jekyll на GitHub Pages
 
-## Как обновить сайт
-
-1. Отредактировать `index.html`
-2. Закоммитить и запушить:
-
-```bash
-git add index.html
-git commit -m "update site"
-git push
-```
